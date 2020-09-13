@@ -1,4 +1,4 @@
-// #include "stdafx.h"
+#include "stdafx.h"
 #include<iostream>
 
 const char MAXSIZE=30;
